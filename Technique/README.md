@@ -1,4 +1,4 @@
 Technique
 ---------
 * Organizational Synthesis
-* * Stacks, Piles
+    * Stacks, Piles
