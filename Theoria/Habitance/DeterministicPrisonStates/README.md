@@ -1,5 +1,5 @@
-Deterministic Prison-States & Their Transcendence
-=================================================
+Deterministic Prison-States
+===========================
 1. The individual consciousness as polity.
 2. Man's - the individual's - subjectivity as prices.
 3. The individual as either political prisoner or political exilic.
