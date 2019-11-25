@@ -1,5 +1,5 @@
-HistoryProject
-==============
+The History-Project
+===================
 * The History-Project;
 * A novelistic phemonenology is like a continuous simulation of a novel-as-a-system;
 
