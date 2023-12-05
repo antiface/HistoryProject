@@ -30,3 +30,9 @@ Deterministic Prison-States
 28. Man has directional motivity in the intentional subtypes of his deep core self in its deep logic.
 29. Habitance is an affect, of which the Montreal-affect is one (sociopolitico-image). Polis-states. Political pathos.
 30. Habitance philosophy describes the distribution of concepts in the style of seigniorial land distribution. It has montées and rangs, and borders waterways. There are fortifications and prisons, with manorhouses and seminaries, cemeteries and parks.
+
+- - - - - - - - - -
+
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
+
+[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
