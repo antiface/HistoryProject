@@ -1,8 +1,8 @@
 The History-Project
 ===================
-* The History-Project;
+* [The History-Project](https://medium.com/the-painters-almanach/anatomy-of-a-history-painting-f2f7aee7af26);
 * A novelistic phemonenology is like a continuous simulation of a novel-as-a-system;
-* *The History-Project* was an interdisciplinary art-research project circa 2001-2004, created and operated, documented and now being published solely by myself;
+* [*The History-Project*](https://medium.com/the-painters-almanach/original-history-project-notes-circa-2001-f81ccabf8ccf) was an interdisciplinary art-research project circa 2001-2004, created and operated, documented and now being published solely by myself;
 * It included a novel with the same name, *The History-Project*, which remains unfinished;
 * It also included an album of original songs and lots and lots of accompanying text, illustrative of the underlying conceptual system and project;
 * It also included a series of *Paintings* called *History-Paintings*, which were a rehashing and refurbishment of the original historical paintings or history-paintings in Western art history, in what is called *The Western Canon*;
@@ -16,7 +16,7 @@ The History-Project
 * History is the accumulation in strata of *Everything that Remains*;
 * History is the skeleton hidden inside a *Great Sacrophagus* called *Planet Earth*, a.k.a. *The Historiosphere*;
 * The impetus for the project was to try to preserve the documentary heritage of humankind, that's what I was trying to do as artist ("cultural innovator") and pseudo-intellectual;
-* I had been studying Walter Benjamin's works and decided to *Paint the Concept(s) of History*;
+* I had been studying Walter Benjamin's works and decided to [*Paint the Concept(s) of History*](https://medium.com/the-painters-almanach/painting-the-concept-s-of-history-715e706b3c54);
 * This led to a series of paintings forming a great *Collection*, possibly the only part of this project that didn't fail;
 * The paintings are what started the project, and the paintings are possibly what remains most pertinent today, 22 years after the start of the project;
 * [...]
