@@ -5,6 +5,7 @@ MENTIONS OF TEXTBOOK IN LITERARY CORPUS:
 ###
 
 ———	———	———	———	———	———	———	———	———	———	———	———
+
 Part Two:
 How this all comes together, I don’t know.  I just know that it does, it has to.  If it doesn’t connect, then I’m not a surrealist.  Veristically, I am.  That’s what I’m trying to treat here, that modern concept of surrealism, how it shines today, now, this moment, the next, the coming, the arriving, saddling the moment, creating within it, in its current, its course.  
 Da-sein:
