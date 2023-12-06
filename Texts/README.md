@@ -1,9 +1,11 @@
 ### Texts
-- ListOfGeoPhysioNeuroTerms.txt
-- MentionsOfBepuzzlionInCorpus.txt
-- MentionsOfTextbookInLiteraryCorpus.txt
-- NotesOnPhysioImaging.txt
-- OldMentionsOfSelfPresentation.txt
+*Some Textual Fragments From The A.G. Literary Corpus Around __The History-Project__*
+
+- ListOfGeoPhysioNeuroTerms.md
+- MentionsOfBepuzzlionInCorpus.md
+- MentionsOfTextbookInLiteraryCorpus.md
+- NotesOnPhysioImaging.md
+- OldMentionsOfSelfPresentation.md
 
 - - - - - - - - - -
 
